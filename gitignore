@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# IDE/OS
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# PyInstaller / build artifacts
+build/
+dist/
+*.spec
+
+# Logs
+*.log
+
+# Archives
+*.zip
+
+# Qt cache
+*.qmlc
+*.jsc
+
+# App specific
+xtimer.log
